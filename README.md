@@ -11,4 +11,4 @@
 # Equipe
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/137249112?v=4" width=115><br><sub>Eduardo Lima </sub>](https://github.com/Edulims)
-
+| :---: |
